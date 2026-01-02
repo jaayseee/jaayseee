@@ -27,6 +27,7 @@ I like turning messy, real-world processes into **clear, auditable, repeatable w
 ## Certifications
 - ✅ **CompTIA Security+**
 - ✅ **ISC² Certified in Cybersecurity (CC)**
+- ✅ **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 - 📌 Next: **CCNA** (in progress)
 
 ---
