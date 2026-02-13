@@ -15,6 +15,8 @@ I like turning messy, real-world processes into **clear, auditable, repeatable w
 ---
 
 ## Experience snapshot
+- **Cybersecurity Operations (SOC) Analyst** — WorkSafeBC  
+  Worked on security operations and SOC workflows: Microsoft Sentinel, Defender, Splunk, StyxView
 - **Cybersecurity Risk & Compliance Co-op** — BC Hydro  
   Worked on security/compliance workflows, monitoring/reporting tasks, documentation, and process improvements (sanitized for portfolio use).
 - **Data Analyst Co-op** — Optima Living  
@@ -29,6 +31,7 @@ I like turning messy, real-world processes into **clear, auditable, repeatable w
 - ✅ **ISC² Certified in Cybersecurity (CC)**
 - ✅ **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 - 📌 Next: **CCNA** (in progress)
+- 📌 Next: **CISSP** (in progress)
 
 ---
 
